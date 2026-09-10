@@ -23,7 +23,7 @@ Particularly effective at bridging **business problems, product requirements, da
 
 ### Software Engineering
 
-C# / .NET · Backend Engineering · Enterprise Applications · API Design · Distributed Systems · Enterprise Integration · Legacy Modernization · Automated Testing · CI/CD
+C# / .NET · Backend Engineering · Enterprise Applications · API Design · Distributed Systems · Enterprise Integration · Legacy Modernization · Automated Testing · CI/CD · AI-Assisted Development · AI Coding Agents · Spec-Driven Development (SDD)
 
 ### Architecture
 
@@ -181,6 +181,30 @@ Technology startup focused on mobile game development and publishing.
 * Approximately **10 titles published**, either under HeartBoxGames or through international publishers.
 * Products reached **200K+ downloads**.
 * Established KPI and analytics practices supporting product decisions.
+
+---
+
+# RECENT PROJECTS / AI-ASSISTED ENGINEERING
+
+## AI-Assisted Software Engineering
+
+**2026**
+
+Actively experimenting with multiple AI coding agents and providers as a disciplined engineering practice rather than an ad hoc productivity shortcut.
+
+* Apply **Spec-Driven Development (SDD)**, test-first intent, architectural guardrails, controlled agent scope, and structured verification workflows — treating LLM-generated output as reviewed and tested code rather than trusted output.
+* Evaluate how coding agents from different providers can be constrained, verified, and integrated into an existing software-engineering workflow.
+
+## Personal Job Application Management System
+
+**2026**
+
+Personal productivity platform / proof of concept for managing a multi-variant European job-search pipeline. Built with modern full-stack technologies and developed end-to-end using AI-assisted Spec-Driven Development, test-assisted implementation, explicit guardrails, and agent-oriented development practices.
+
+* Production-oriented POC incorporating **authentication, PostgreSQL/Prisma, domain services, Kanban/workspace views, search, dashboard projections, document storage, export/archive, auditability, and PWA considerations**.
+* Followed a full **Spec-Driven Development** lifecycle — constitution → specification → clarification → architecture → plan → tasks → implementation → review — with **Codex** configured as the Spec Kit coding agent.
+* Used the project as a practical environment for working with AI coding agents from multiple providers, evaluating agent constraint, verification, and integration into a disciplined engineering workflow.
+* GitHub: [github.com/kavehmb2000/Personal-Job-Application-Management-System](https://github.com/kavehmb2000/Personal-Job-Application-Management-System)
 
 ---
 
