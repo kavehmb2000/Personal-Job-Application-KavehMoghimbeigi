@@ -9,13 +9,13 @@ LinkedIn: linkedin.com/in/kaveh-moghimbeigi
 
 ## PROFESSIONAL PROFILE
 
-Multidisciplinary engineer and technical leader with 20+ years of experience spanning software engineering, data engineering, applied machine learning, enterprise systems, decision-support solutions, product development, and technical/project leadership.
+Multidisciplinary engineer and technical leader with 20+ years of experience spanning software engineering, data engineering, applied machine learning, enterprise systems, decision-support solutions, product development, technical/project leadership, and independent consulting.
 
 Started as a QA technician and software engineer and progressed through senior development, technical leadership, CTO, Product Owner, Project Manager, Program Manager, and consulting responsibilities. Deep hands-on expertise in **C#/.NET, backend engineering, relational databases, software architecture, distributed systems, APIs, and enterprise integration**, complemented by practical experience in **data engineering, analytics, machine learning, AI, and decision-support systems**.
 
-Combines engineering depth with formal multidisciplinary engineering and management education and practical experience in product development, operations, manufacturing, quality, Lean, supply chain, entrepreneurship, and stakeholder management.
+Combines engineering depth with formal multidisciplinary engineering and management education (including ENSAM ParisTech’s strong industrial-engineering and production/supply-chain curriculum) and practical experience in product development, operations, manufacturing concepts, quality, Lean, supply chain, entrepreneurship, and stakeholder management.
 
-Particularly effective at bridging **business problems, product requirements, data, and engineering**, turning complex operational requirements into robust production systems and measurable business outcomes.
+Particularly effective at bridging **business problems, product requirements, data, and engineering** — from determining whether an idea is worth pursuing, through defining the product and technology approach, to building and delivering production systems and improving operations.
 
 ---
 
@@ -36,18 +36,20 @@ Data Pipelines · ETL/ELT · Data Quality · Data Validation · Data Modelling �
 ### AI & Machine Learning
 
 Applied Machine Learning · Predictive Analytics · PyTorch · Classification · Forecasting · Model Evaluation · ML Deployment / MLOps · Agent-Based Modelling · AI/ML-enabled Decision Support
+### Simulation, Modelling & Spatial Systems
+Discrete-event and operational simulation (Simul8, AnyLogic) · Agent-Based Modelling · Scientific simulation tooling (MATLAB/Simulink, Ansys) · Unity3D for visualisation and parameter injection · Early localization / positioning work · Indoor warehouse SLAM exposure · Signal-processing foundations relevant to radar / sonar / lidar
 
 ### Product & Delivery
 
-Product Ownership · Product Strategy · Requirements Analysis · Roadmaps · Prioritization · Product Analytics · KPI Design · Project Management · Program Management · PMO · Scrum · Kanban · Lean · Continuous Improvement
+Product Ownership · Product Strategy · Requirements Analysis · Market Selection · Product-Market Fit · Roadmaps · Prioritization · Product Analytics · KPI Design · Project Management · Program Management · PMO · Scrum · Kanban · Lean · Continuous Improvement
 
 ### Leadership & Business
 
-Technical Leadership · Mentoring · Team Leadership · Stakeholder Management · Client Negotiation · Business Analysis · Entrepreneurship · Strategic Planning · Process Improvement · Quality Management
+Technical Leadership · Mentoring · Team Leadership · Stakeholder Management · Client Negotiation · Business Analysis · Entrepreneurship · Strategic Planning · Operations · Process Improvement · Quality Management
 
 ### Domains
 
-Telecommunications · IoT · Enterprise Software · Gaming · InsurTech · Supply Chain · Logistics · Fleet Management · Embedded Systems · FinTech · E-commerce · Decision Support
+Telecommunications · IoT · Enterprise Software · Gaming · InsurTech · Supply Chain · Logistics · Fleet Management · Embedded Systems · FinTech · E-commerce · Decision Support · MRO · Intralogistics / Warehouse Systems · Industrial Simulation
 
 ---
 
@@ -56,15 +58,58 @@ Telecommunications · IoT · Enterprise Software · Gaming · InsurTech · Suppl
 * **35K+ IoT/network assets:** Co-designed and deployed a greenfield Decision Support System providing telemetry and infrastructure insights and contributing to a **12% reduction in physical infrastructure costs**.
 * **~96% of invoice errors detected before issuance:** Engineered automated aggregation, validation, and business-rule processing to identify and correct invoice anomalies before customer issuance.
 * **~25 min → <3 min reporting:** Re-engineered the reporting workflow, removing redundant processing, manual validation, and hand-assembled Excel reporting.
-* **30+ game concepts / ~10 published titles:** Led engineering and product development at HeartBoxGames, with products reaching **200K+ downloads**.
+* **30+ game concepts / ~10 published titles:** Led engineering and product development at HeartBoxGames, with products reaching **200K+ downloads**. uilt primarily with Unity3D + C#, including customised native Android (Gradle) and iOS (Xcode) build pipelines.
 * **CI/CD established early in startup lifecycle:** Built an automated build, testing, and beta-release pipeline and embedded continuous delivery into the team's engineering process.
 * **Enterprise decision-support adoption:** Helped transform an initially auditing-oriented system into a strategic decision-support product that was subsequently expanded into an enterprise-wide program.
 * **5% network-quality improvement:** Applied analytical and decision-support capabilities to infrastructure planning and operational improvement.
 * **30% faster data processing:** Optimized data-processing and reporting workflows supporting the MCI decision-support platform.
+* **20+ ventures evaluated through consulting:** Helped founders and organizations assess ideas, stop weak opportunities early, and develop viable ones into products and businesses.
+* **8 consulting engagements / 6 market launches / 2 successful product lineups:** Provided hands-on strategy, product, technology, project, and operational support to selected ventures.
 
 ---
 
 # PROFESSIONAL EXPERIENCE
+
+## Independent Consultant — Strategy · Product · Technology · Operations
+
+**2018 – Present · International / Remote**
+
+Independent consulting across startups, technology ventures, and established organizations in multiple sectors.
+
+Advised **20+ companies and ventures**, helping evaluate opportunities before significant resources were committed and providing hands-on support to viable ventures from strategy through market launch.
+
+### Venture & Strategy
+
+* Evaluated business ideas, market assumptions, technical feasibility, operational requirements, and overall viability.
+* Challenged weak assumptions and helped **stop ideas before they consumed significant capital and organizational resources**.
+* For viable opportunities, contributed to company strategy, business models, market selection, positioning, and technology roadmaps.
+* Bridged business, technical, product, and operational considerations when defining new ventures and initiatives.
+
+### Product & Market
+
+* Helped founders and teams shape products and services around customer needs and market opportunities.
+* Worked on **product/service-market fit**, proposition definition, requirements, prioritization, and go-to-market considerations.
+* Supported ventures from early concept through implementation and market launch.
+* Used engineering, data, customer, and operational considerations together rather than treating product decisions as isolated business or technical questions.
+
+### Software & Data Platforms
+
+* Designed, selected, or guided software and data platforms supporting new products, services, and operational processes.
+* Translated business requirements into technical architecture, implementation approaches, and delivery plans.
+* Provided hands-on technical leadership where appropriate, including software, data, integration, and automation concerns.
+
+### Project & Operations
+
+* Provided project-management and delivery support across multidisciplinary teams.
+* Helped establish operational processes connecting business requirements, technology, people, and delivery.
+* Supported **two MRO startups**, working across operational requirements, business processes, technology, and product/service definition.
+* Worked directly with founders, technical teams, operational teams, clients, suppliers, and other stakeholders.
+
+### Consulting Track Record
+
+**20+ companies/ventures consulted · 8 contracted engagements · 6 reached market · 2 currently have successful product lineups**
+
+---
 
 ## Parsis Co. / MCI — Senior Backend Developer / Data & AI
 
@@ -294,6 +339,13 @@ Explored and developed proof-of-concepts and software projects across emerging t
 * Explored industrial communication technologies including **CAN, Zigbee, and UWB**.
 * Coordinated remotely with engineering teams in Iran.
 
+### Simulation, Localisation & Spatial Systems
+* Early hands-on work on rover positioning / localization as part of a university rescue-robot team (national competition, Tehran 2002).
+* Consulting involvement (≈2018) on an indoor warehouse SLAM project.
+* Strong electrical-engineering foundation in signal-processing concepts (including Smith charts) relevant to radar, sonar and lidar applications.
+* Experience connecting scientific simulation outputs (MATLAB/Simulink, Ansys) into Unity3D visual / interactive models.
+* Limited but practical discrete-event simulation of factory, production-line and warehouse operations using **Simul8** and **AnyLogic**.
+* Agent-Based Modelling applied both in research-style and product contexts.
 ---
 
 # EDUCATION
@@ -304,7 +356,7 @@ Explored and developed proof-of-concepts and software projects across emerging t
 
 General Engineering / Engineering & Management.
 
-Multidisciplinary engineering education spanning engineering, manufacturing, systems thinking, management, entrepreneurship, project and product development, and organizational concerns.
+Multidisciplinary engineering education with particular strength in **industrial engineering, production systems, manufacturing, supply-chain concepts, ERP-related topics, systems thinking, management, entrepreneurship, project and product development**, and organizational concerns. ENSAM is widely recognised for its industrial and production-oriented curriculum.
 
 ---
 
@@ -363,6 +415,8 @@ Python · Power BI · Machine Learning · PyTorch · Predictive Analytics · Dat
 ### Gaming / Mobile
 
 Unity3D · C# · Mobile Development · Android · iOS · Xamarin · Game Analytics
+### Simulation & Modelling
+MATLAB / Simulink · Ansys · Simul8 · AnyLogic · Agent-Based Modelling · Discrete-event simulation · Parameter injection into 3D / Unity models
 
 ### Cloud / Infrastructure
 
@@ -374,7 +428,7 @@ TDD · BDD · Automated Testing · Code Review · Pair Programming · CI/CD · A
 
 ### Product / Management
 
-Product Ownership · Product Management · Project Management · Program Management · PMO · Business Analysis · Requirements Engineering · KPI/Analytics · Stakeholder Management · Technical Leadership
+Product Ownership · Product Management · Product-Market Fit · Market Selection · Project Management · Program Management · PMO · Business Analysis · Requirements Engineering · KPI/Analytics · Stakeholder Management · Technical Leadership · Operations
 
 ---
 
@@ -410,7 +464,7 @@ Russian — Basic
 
 # DOMAIN EXPERIENCE
 
-Telecommunications · Network Infrastructure · IoT · Decision Support · Enterprise Software · Data & Analytics · Machine Learning · Mobile Gaming · SaaS · InsurTech · Supply Chain · Logistics · Fleet Tracking · Embedded Systems · Electronics · Energy Systems · FinTech · Blockchain · E-commerce
+Telecommunications · Network Infrastructure · IoT · Decision Support · Enterprise Software · Data & Analytics · Machine Learning · Mobile Gaming · SaaS · InsurTech · Supply Chain · Logistics · Fleet Tracking · MRO · Embedded Systems · Electronics · Energy Systems · FinTech · Blockchain · E-commerce · Intralogistics / Warehouse Simulation · Industrial & Production Systems · Localisation / SLAM exposure
 
 ---
 
@@ -420,4 +474,4 @@ The common thread across the career is the ability to operate at the intersectio
 
 **Engineering ↔ Data ↔ AI/ML ↔ Product ↔ Business ↔ Operations**
 
-with particularly deep foundations in **software engineering and backend systems**, substantial hands-on experience in **data-intensive decision-support systems**, and practical experience applying **ML/AI to real operational problems**.
+with particularly deep foundations in **software engineering and backend systems**, substantial hands-on experience in **data-intensive decision-support systems**, practical experience applying **ML/AI to real operational problems**, and a consulting background in **evaluating opportunities, shaping viable products and businesses, and helping take them from idea to market**.
