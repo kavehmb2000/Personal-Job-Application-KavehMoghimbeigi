@@ -23,7 +23,7 @@ Particularly effective at bridging **business problems, product requirements, da
 
 ### Software Engineering
 
-C# / .NET · Backend Engineering · Enterprise Applications · API Design · Distributed Systems · Enterprise Integration · Legacy Modernization · Automated Testing · CI/CD · AI-Assisted Development · AI Coding Agents · Spec-Driven Development (SDD)
+C# / .NET · Backend Engineering · Enterprise Applications · Desktop Applications (WPF, MVVM) · API Design · Distributed Systems · Enterprise Integration · Legacy Modernization · Automated Testing · CI/CD · AI-Assisted Development · AI Coding Agents · Spec-Driven Development (SDD)
 
 ### Architecture
 
@@ -83,6 +83,7 @@ Work within multidisciplinary teams of business analysts, developers, architects
 * Integrated enterprise data and processes with ERP systems.
 * Implemented fine-grained **row-level security** for sensitive analytical data.
 * Worked on data validation, anomaly detection, reconciliation, business-rule processing, and reporting.
+* Built **WPF (MVVM)** desktop tooling as part of the Decision Support System.
 
 ### AI / ML / Decision Support
 
@@ -133,7 +134,9 @@ Mobile-first SaaS platform for selling household health-insurance policies.
 
 * Developed backend/application components using **C#, ASP.NET MVC, and SQL Server**.
 * Worked with Angular on frontend integration.
+* Built a **WPF (MVVM)** desktop client as part of the platform.
 * Translated product requirements into technical solutions.
+* Ran UI **A/B tests** (fewer than 20 variants) to inform design decisions.
 * Contributed to development of the platform from an engineering perspective.
 
 The product was recognized as **Iranian InsurTech Project of the Year in 2019**.
@@ -164,6 +167,8 @@ Technology startup focused on mobile game development and publishing.
 * Managed projects throughout the complete lifecycle from concept through delivery and publication.
 * Participated in product strategy, roadmap definition, KPI selection, analytics, and product decisions.
 * Used analytics to derive actionable conclusions for product development.
+* Ran extensive **A/B testing** across UI, reward logic, and level-difficulty variants.
+* Built player-behavior analytics using **Google BigQuery and Firebase Analytics**, generating insights on in-game interaction patterns across the product portfolio while staying within GDPR data-protection boundaries.
 * Worked on Product-Market Fit and Lean Startup practices.
 * Delivered MVPs rapidly, including an approach based on short one-week sprints.
 
@@ -247,6 +252,7 @@ Sister company of Pars Kaghak Rayaneh delivering fleet-tracking and logistics so
 * Created automated/unit tests and contributed to the adoption of **TDD**.
 * Worked with **Oracle 10g**, C#, VB.NET, J2ME, and Visual Studio .NET.
 * Developed web applications and data-acquisition solutions.
+* Built **WPF** desktop interfaces (MVVM pattern) for monitoring and data-acquisition tooling.
 * Worked with electronic instruments and interfaced legacy systems with newer software services.
 * Developed monitoring interfaces and operational alerting systems, including server-health monitoring with SMS notification.
 * Built the foundations of a software-engineering career through close collaboration with senior engineers.
@@ -360,7 +366,7 @@ Unity3D · C# · Mobile Development · Android · iOS · Xamarin · Game Analyti
 
 ### Cloud / Infrastructure
 
-Google Cloud Platform · Firebase · Microsoft Azure · CI/CD · Automated Build/Test/Release
+Google Cloud Platform · BigQuery · Firebase · Firebase Analytics · Microsoft Azure · CI/CD · Automated Build/Test/Release
 
 ### Engineering Practices
 
